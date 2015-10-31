@@ -16,5 +16,3 @@ Requires .Net 2.0<br>
 Color editor for DA_XXX_CustomizeSetting_01.uasset files.<br>
 Parsing the items isn't perfect but works on all the current released characters as of 10/30/2015.<br>
 Colors in palette slot 1 and 2 are used for 1st chosen/2nd chosen characters.<br>
-
-Note: Some characters (ryu) have only 9 palette slots in the files and the tool does not handle this.
