@@ -1,6 +1,8 @@
 # coloredit
 <b>Karin colors:</b><br><br>
 
+<img src="https://github.com/anoncode/coloredit/blob/master/karincolors.jpg">
+
 1. Copy the color file "DA_XXX_CustomizeSetting_01.uasset"  to "Z:\Program Files\StreetFighterVBeta\StreetFighterVBeta\Content\Chara\XXX\DataAsset"
 Where Z is your drive letter and XXX is the character code like CMY, KEN etc. (this release is KRN)<br><br>
 
