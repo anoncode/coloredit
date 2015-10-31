@@ -10,6 +10,8 @@ NOTE: Don't change the files while the game is minimized, you need to restart th
 
 <b>SF5 color edit application:</b><br><br>
 
+<img src="https://github.com/anoncode/coloredit/blob/master/screenshot.jpg">
+
 Requires .Net 2.0<br>
 Color editor for DA_XXX_CustomizeSetting_01.uasset files.<br>
 Parsing the items isn't perfect but works on all the current released characters as of 10/30/2015.<br>
